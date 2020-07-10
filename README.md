@@ -1,2 +1,2 @@
-# WindUtil
-My Utilities
+# glogDemo
+demo of glog usage
